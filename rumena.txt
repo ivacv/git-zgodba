@@ -1,5 +1,5 @@
 git add rumena.txt
-TODO Naprogramiraj nekaj
-TODO Nauči se git
-TODO V ta repozitorij dodaj vnos iz 12. 12. 2012
-TODO Izbriši ta TODO
+Naprogramiraj nekaj
+Nauči se git
+V ta repozitorij dodaj vnos iz 12. 12. 2012
+Izbriši ta 
